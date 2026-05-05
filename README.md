@@ -31,3 +31,5 @@ I used the following librarys:
 - openpyxl
 
 The code is in notebook format
+
+*Note: I had a lot of help of AI tools, my intention here was build as fast as I could
