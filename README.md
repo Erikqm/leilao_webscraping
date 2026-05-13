@@ -14,7 +14,7 @@ The target city is Curitiba, so I get the most trusted vehicle auction of this c
  - copart
  - claudioKuss
 
-So I visited all those sites, learned how thei were structured and built a webscrap, the output is a csv formated, cleaned (with some filters importants to me) e with a columns that indicate the relevance of those cars for me.
+So I visited all those sites, learned how they were structured and built a webscrap, the output is a csv formated, cleaned (with some filters importants to me) e with a columns that indicate the relevance of those cars for me.
 I used the following librarys:
 - requests
 - BeautifulSoup
